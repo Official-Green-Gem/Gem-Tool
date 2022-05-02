@@ -1,2 +1,6 @@
-# Gem-Tool
-A discord Server nuking tool made with python, this also has a Server Cloner
+## Disclaimer:
+
+   `Gem Tool was made for Educational Purposes`
+--------------------------------------------------
+This project was created only for good purposes and personal use.
+By using Gem, you agree that you hold responsibility and accountability of any consequences caused by your actions.
